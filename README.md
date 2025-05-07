@@ -58,4 +58,16 @@ We provide detailed insights into individual countries and regions. This allows 
 - **Data - Driven Approach**: The project is firmly grounded in real - world data from reliable sources. This ensures the objectivity and credibility of our analysis, allowing us to draw meaningful conclusions based on empirical evidence.
 - **Multifaceted Analysis**: By considering multiple factors related to national well - being and Olympic performance, we offer a comprehensive view of the relationship between the two. This holistic approach helps us capture the complex interplay of various elements that contribute to a country's Olympic success.
 - **Open - Source and Transparent**: We use open - source datasets and make our code publicly available. This promotes transparency in our research process and allows other researchers to reproduce our results, validate our findings, and build upon our work.
-
+=======
+中英文对照项目术语表：
+| 英文术语                         | 中文术语         | 简单解释                                                     
+| :------------------------------ | :--------        | :-----------------------------------                         
+| World Happiness Report (WHR)    | 世界幸福报告      | 全球幸福和福祉领域的权威出版物，基于多国数据和高质量分析。        
+| Olympic Medals                  | 奥运奖牌          | 奥林匹克运动会中获得的金牌、银牌和铜牌数量，用于衡量国家的奥运成功。   
+| Happiness Scores                | 幸福指数得分      | 基于世界幸福报告中人们对生活质量的0-10评分，用于衡量国家的幸福水平。 
+| Log GDP per Capita              | 人均GDP对数       | 人均国内生产总值的对数值，用于衡量国家的经济繁荣程度。          
+| Social Support                  | 社会支持          | 反映国家社会支持体系的强度，是世界幸福报告中幸福指数的重要组成部分。   
+| Healthy Life Expectancy         | 健康预期寿命      | 一个人在健康状态下预期可以生存的年数，是衡量人口健康状况的重要指标。   
+| Perceptions of Corruption       | 腐败感知          | 人们对本国腐败程度的主观评价，较低的腐败感知可能与更好的治理相关。    
+| Country and Regional Deep Dives | 国家和地区深入剖析 | 对个别国家和地区进行详细分析，提供更细致的幸福与体育表现的关系研究。  
+<!-- by 李荧桢 -->
