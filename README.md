@@ -1,28 +1,25 @@
-# The Happiness-Medal Nexus: Exploring Well-being and Olympic Success
-## country_happiness_medal
+# 幸福与奖牌的关联：探索幸福指数与奥运成功的联系
+## 国家幸福与奥运奖牌项目
 
-This project started in September 2024 as a passion-driven initiative fueled by a love for data analysis and continuous learning. It leverages open-source datasets, with full attribution given to the original creators. Any modifications made to the data, such as cleansing, wrangling, and normalization, are purely for analytical purposes.
+该项目于2024年9月启动，源于对数据分析的热爱和对持续学习的追求。项目使用开源数据集，并对原始创作者表示充分的感谢。对数据进行的任何修改，例如清洗、整理和归一化，均出于分析目的。
 
-The dataset brings together insights from the World Happiness Report (WHR), Olympic medal counts, and various happiness score components (such as GDP, social support, and more). The aim is to explore five key analyses, particularly focusing on the relationship between national happiness and Olympic success:
+本数据集整合了世界幸福报告（WHR）、奥运奖牌数量以及多种幸福指数成分（如人均GDP、社会支持等）。项目旨在开展五项关键分析，重点关注国家幸福水平与奥运成功之间的关系：
 
-1. Correlation Between Total Medals and Happiness Scores: Investigate whether countries that win more Olympic medals also tend to have higher happiness ladder scores in the WHR.
+1. **奖牌总数与幸福指数的相关性**：研究在奥运会上获得更多奖牌的国家是否也倾向于在世界幸福报告中获得更高的幸福指数得分。
+2. **经济繁荣（人均GDP对数）与奥运表现**：探索人均GDP较高的富裕国家是否在奥运会上表现更为出色。
+3. **社会支持与奥运成功**：评估社会支持体系更强的国家是否在奥运会上取得更好的成绩。
+4. **健康预期寿命与奖牌数量**：分析健康预期寿命较高的国家是否在奥运会上取得更多的奖牌，因为健康预期寿命通常是人口健康状况的标志。
+5. **腐败感知与奥运表现**：检查腐败感知水平较低的国家是否获得更多的奖牌，这可能反映了影响体育成就的系统性因素。
 
-2. Economic Prosperity (Log GDP per Capita) and Olympic Performance: Explore if wealthier countries, as indicated by GDP per capita, are more successful in the Olympics.
+此外，项目还将深入剖析个别国家和地区，提供更细致的幸福与体育表现的分析。
 
-3. Social Support and Olympic Success: Assess whether countries with stronger social support systems, as reflected in the WHR, tend to perform better in the Olympics.
+*** 项目的完整内容和更多深入见解将随着时间推移在以下网址呈现：[https://brianfperry.com/landing/country_happiness_medal/](https://brianfperry.com/landing/country_happiness_medal/)。
 
-4. Healthy Life Expectancy and Medal Counts: Analyze whether nations with higher life expectancies—often a sign of a healthier population—have greater Olympic success.
-
-5. Perceptions of Corruption and Olympic Performance: Examine if lower levels of perceived corruption are linked to higher medal counts, potentially reflecting systemic factors that influence sports achievement.
-
-6. Country and Regional Deep Dives: Provide detailed insights into individual countries and regions, offering a more granular exploration of happiness and sports performance.
-
-*** See the full project and expanded insights over time will appear here: (https://brianfperry.com/landing/country_happiness_medal/)
-
-*** See corresponding code in accompanying repo folder (https://github.com/dcrefugee/country_happiness_medal/blob/main/_code_happiness_medal_2024/load_and_explore.py)
+*** 项目相关代码可在以下链接的配套仓库中查看：[https://github.com/dcrefugee/country_happiness_medal/blob/main/_code_happiness_medal_2024/load_and_explore.py](https://github.com/dcrefugee/country_happiness_medal/blob/main/_code_happiness_medal_2024/load_and_explore.py)。
 
 ---
 
-Data Sources:  
-- World Happiness Report: https://worldhappiness.report/  
-- Olympic Medals - Paris 2024: https://olympics.com/en/paris-2024/medals
+数据来源：
+- 世界幸福报告：[https://worldhappiness.report/](https://worldhappiness.report/)
+- 2024年巴黎奥运会奖牌榜：[https://olympics.com/en/paris-2024/medals](https://olympics.com/en/paris-2024/medals)
+- <!-- by 李荧桢 -->
